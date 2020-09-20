@@ -1,0 +1,22 @@
+Instalasi 
+
+- install node js
+- install editor (vscode)
+- npm install -g @vue/cli
+- vue ui atau vue ui -H 0.0.0.0
+
+Plugin dan Dependensi
+- vue router
+- bootstrap vue
+- axios
+- vue toast notification
+
+fake api 
+- json-server --watch db.json ==>run server 
+
+Desain
+- Warna Primary #4EB883
+- warna Secondary #E9F9F4
+- Ilustrasi : undraw.co
+- Gambar : unflash.com
+- Google font : Montserrat light 300, Reguler 400, Bold 700
